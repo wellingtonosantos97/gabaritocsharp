@@ -1,0 +1,8 @@
+C:\Users\welli\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo35\bin\Debug\SerieParaMalharStart.Algoritmo35.exe.config
+C:\Users\welli\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo35\bin\Debug\SerieParaMalharStart.Algoritmo35.exe
+C:\Users\welli\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo35\bin\Debug\SerieParaMalharStart.Algoritmo35.pdb
+C:\Users\welli\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo35\obj\Debug\SerieParaMalharStart.Algoritmo30.csproj.AssemblyReference.cache
+C:\Users\welli\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo35\obj\Debug\SerieParaMalharStart.Algoritmo30.csproj.SuggestedBindingRedirects.cache
+C:\Users\welli\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo35\obj\Debug\SerieParaMalharStart.Algoritmo30.csproj.CoreCompileInputs.cache
+C:\Users\welli\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo35\obj\Debug\SerieParaMalharStart.Algoritmo35.exe
+C:\Users\welli\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo35\obj\Debug\SerieParaMalharStart.Algoritmo35.pdb
